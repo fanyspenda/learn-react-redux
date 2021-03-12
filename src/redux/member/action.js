@@ -1,0 +1,2 @@
+export const UPDATE_MEMBER = "UPDATE_MEMBER";
+export const REMOVE_MEMBER = "REMOVE_MEMBER";
